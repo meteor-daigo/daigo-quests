@@ -1,0 +1,11 @@
+{
+	"name": "daigo-quests",
+	"description": "The quests package for Daigo",
+	"homepage": "https://github.com/meteor-daigo/daigo-quests",
+	"author": "The Daigo Team",
+	"version": "0.1.0",
+	"git": "https://github.com/meteor-daigo/daigo-quests.git",
+	"packages": {
+		"smart-collections": {}
+	}
+}
